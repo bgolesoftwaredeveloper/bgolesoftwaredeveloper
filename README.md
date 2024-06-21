@@ -23,6 +23,7 @@ Throughout my education and persona projects, I have acquired a solid understand
 
 I am always eager to connect and discuss new opportunities. Feel free to reach out to me through the following channels:
 
-- LinkedIn: [https://www.linkedin.com/in/braiden-gole-81120318a/]
+- LinkedIn: https://www.linkedin.com/in/braiden-gole-81120318a/
+- Mobile: 519-741-6963
 
 I look forward to the chance to collaborate and contribute to exciting projects!
