@@ -4,7 +4,7 @@
 
 Hello! My name is Braiden Gole, and I am an experienced **Computer Programmer** with a strong background in designing, developing, and maintaining software applications. I am proficient in a wide range of programming languages and well-versed in multiple framworks across various platforms, including Web, Web RESTful API, Desktop GUI, and Mobile applications.
 
-Throughout my education and persona projects, I have acquired a solid understanding of programming concepts and techniques. With a passion for coding and a drive to continuously learn and improve, I am well-prepared to contribute to dynamic development teams and make a meaningful impact.
+Throughout my education and personal projects, I have acquired a solid understanding of programming concepts and techniques. With a passion for coding and a drive to continuously learn and improve, I am well-prepared to contribute to dynamic development teams and make a meaningful impact.
 
 ## Skills and Expertise
 
