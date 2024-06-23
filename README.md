@@ -11,7 +11,7 @@ Throughout my education and personal projects, I have acquired a solid understan
 - **Programming Languages**: [C, C++, C#, Cython, Python, Java, Node.js, HTML, CSS, JavaScript, JQuery, XAML and more...]
 - **Frameworks and Technologies**: [C# ASP.NET CORE MVC, Django, Node.js express, WPF, Java android studio, C# Swagger RESTful API, Django RESTful framework, Node.js Express API and more...]
 - **Database Technologies**: [SQLite, MySQL, PostgreSQL, Microsft SQL Server, MongoDb]
-- **Testing Technologies**: [PyTest, C# NUnit, Selenium, POSTman, JMeter, Azure Test Plans]
+- **Testing Technologies**: [PyTest, C# NUnit, JUnit, Selenium, POSTman, JMeter, Azure Test Plans]
 - **Software Development Lifecycle**: Experienced in all phases of the software development lifecycle, including requirements gathering, design, development, testing, and deployment.
 - **Collaboration and Communication**: Strong believer in effective communication and collaboration, understanding the importance of working closely with cross-functional teams to deliver successful outcomes.
 
