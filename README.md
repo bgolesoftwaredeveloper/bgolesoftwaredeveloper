@@ -14,6 +14,7 @@ Throughout my education and personal projects, I have acquired a solid understan
 - **Testing Technologies**: [PyTest, C# NUnit, JUnit, Selenium, POSTman, JMeter, Azure Test Plans]
 - **Software Development Lifecycle**: Experienced in all phases of the software development lifecycle, including requirements gathering, design, development, testing, and deployment.
 - **Collaboration and Communication**: Strong believer in effective communication and collaboration, understanding the importance of working closely with cross-functional teams to deliver successful outcomes.
+- **Machine Learning**: KMeans, DBSCAN, Affinity propagation, Backpropagation, BIRCH, Fuzzy C Means, Gaussian Mixture Model, GRASP, Isometric Mapping, LOF, NBC, and more...
 
 ## Key Highlights
 
