@@ -8,7 +8,7 @@ Throughout my education and personal projects, I have acquired a solid understan
 
 ## Skills and Expertise
 
-- **Programming Languages**: [C, C++, C#, Cython, Python, Java, Node.js, HTML, CSS, JavaScript, JQuery, XAML and more...]
+- **Programming Languages**: [C, C++, Go, C#, Cython, Python, Java, Node.js, HTML, CSS, JavaScript, JQuery, XAML and more...]
 - **Frameworks and Technologies**: [C# ASP.NET CORE MVC, Django, Node.js express, WPF, Java android studio, C# ASP.NET Core Web API, Django RESTful framework, Node.js Express API and more...]
 - **Database Technologies**: [SQLite, MySQL, PostgreSQL, Microsft SQL Server, MongoDb]
 - **Testing Technologies**: [PyTest, C# NUnit, JUnit, Selenium, POSTman, JMeter, Azure Test Plans]
