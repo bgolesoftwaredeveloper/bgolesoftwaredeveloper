@@ -1,32 +1,84 @@
-# Introduction
+# 👨‍💻 Braiden Gole – Computer Programmer
 
-## About Me
+## 📌 About Me
 
-Hello! My name is Braiden Gole, and I am an experienced **Computer Programmer** with a strong background in designing, developing, and maintaining software applications. I am proficient in a wide range of programming languages and well-versed in multiple framworks across various platforms, including Web, Web RESTful API, Desktop GUI, and Mobile applications.
+Hello! My name is **Braiden Gole**, and I am a dedicated and versatile **Computer Programmer** with strong experience in designing, developing, and maintaining software applications across various platforms. I specialize in delivering robust solutions in **Web Development**, **RESTful APIs**, **Desktop GUI**, and **Mobile Applications**.
 
-Throughout my education and personal projects, I have acquired a solid understanding of programming concepts and techniques. With a passion for coding and a drive to continuously learn and improve, I am well-prepared to contribute to dynamic development teams and make a meaningful impact.
+With a solid foundation in computer science concepts and real-world development experience, I bring a passion for clean, maintainable code and a commitment to continuous learning. Whether working independently or as part of a team, I strive to contribute high-quality, scalable, and efficient code that drives project success.
 
-## Skills and Expertise
+---
 
-- **Programming Languages**: [C, C++, Go, C#, Cython, Python, Java, Node.js, HTML, CSS, JavaScript, JQuery, XAML and more...]
-- **Frameworks and Technologies**: [C# ASP.NET CORE MVC, Django, Node.js express, WPF, Java android studio, C# ASP.NET Core Web API, Django RESTful framework, Node.js Express API and more...]
-- **Database Technologies**: [SQLite, MySQL, PostgreSQL, Microsft SQL Server, MongoDb]
-- **Testing Technologies**: [PyTest, C# NUnit, JUnit, Selenium, POSTman, JMeter, Azure Test Plans]
-- **Software Development Lifecycle**: Experienced in all phases of the software development lifecycle, including requirements gathering, design, development, testing, and deployment.
-- **Collaboration and Communication**: Strong believer in effective communication and collaboration, understanding the importance of working closely with cross-functional teams to deliver successful outcomes.
-- **Machine Learning**: KMeans, DBSCAN, Affinity propagation, Backpropagation, BIRCH, Fuzzy C Means, Gaussian Mixture Model, GRASP, Isometric Mapping, LOF, NBC, and more...
+## 🧠 Skills and Expertise
 
-## Key Highlights
+### 🖥️ Programming Languages
+`C`, `C++`, `Go`, `C#`, `Cython`, `Python`, `Java`, `Node.js`, `HTML`, `CSS`, `JavaScript`, `jQuery`, `XAML`, and more.
 
-- Detail-oriented individual who prioritizes clean and maintainable code
-- Highly skilled in writing modular and well-organized code, leading to efficient and scalable applications
-- Passionate about coding and continuously learning new technologies to stay up-to-date with industry trends
+### 🔧 Frameworks & Technologies
+`ASP.NET Core MVC`, `ASP.NET Core Web API`, `Django`, `Django REST Framework`, `Node.js Express`, `Node.js Express API`, `WPF`, `Android Studio`.
 
-## Get in Touch
+### 🗄️ Databases
+`SQLite`, `MySQL`, `PostgreSQL`, `Microsoft SQL Server`, `MongoDB`.
 
-I am always eager to connect and discuss new opportunities. Feel free to reach out to me through the following channels:
+### 🧪 Testing Tools & Technologies
+`PyTest`, `NUnit`, `JUnit`, `Selenium`, `Postman`, `JMeter`, `Azure Test Plans`, and Go's built-in testing framework.
 
-- Email address: braidengolesoftwaredeveloper@gmail.com
-- Mobile: 519-741-6963
+### 🔄 Software Development Lifecycle
+Experienced in all phases: **Requirements gathering**, **Design**, **Development**, **Testing**, and **Deployment**.
 
-I look forward to the chance to collaborate and contribute to exciting projects!
+### 🤝 Collaboration & Tools
+Proficient in **GitHub** workflows, version control, and collaborative software development.
+
+---
+
+## 🤖 Machine Learning Projects
+
+Below is a collection of machine learning algorithms I have implemented, focusing primarily on **unsupervised learning**, **evolutionary strategies**, **reinforcement learning**, and **dimensionality reduction**:
+
+### 🧩 Unsupervised Learning
+- **K-Means Clustering**
+- **DBSCAN (Density-Based Spatial Clustering)**
+- **BIRCH (Balanced Iterative Reducing and Clustering using Hierarchies)**
+- **Fuzzy C-Means Clustering**
+- **Gaussian Mixture Models (GMM)**
+- **OPTICS (Ordering Points To Identify the Clustering Structure)**
+- **Affinity Propagation**
+- **LOF (Local Outlier Factor)**
+
+### 🧠 Supervised Learning
+- **Naive Bayes Classifier (NBC)**
+- **Random Forest Regression**
+
+### 🧬 Evolutionary & Neural Approaches
+- **Backpropagation Neural Network**
+- **Neuroevolution (Evolving Neural Networks)**
+- **Self-Organizing Maps (SOM)**
+
+### 🎯 Reinforcement Learning
+- **Q-Learning Agent**
+
+### 📉 Dimensionality Reduction & Mapping
+- **t-SNE (t-Distributed Stochastic Neighbor Embedding)**
+- **Isometric Mapping (Isomap)**
+
+---
+
+## 🌟 Personal Traits
+
+- Detail-oriented with a focus on clean, maintainable code  
+- Strong analytical and problem-solving skills  
+- Quick learner with a passion for new technologies  
+- Organized, dependable, and self-motivated  
+- Excellent communication and team collaboration  
+
+---
+
+## 📬 Get in Touch
+
+I’m currently open to **new opportunities** and enthusiastic about joining a team where I can contribute meaningfully to development and innovation.
+
+Feel free to reach out via:  
+- 📧 Email: [braidengolesoftwaredeveloper@gmail.com](mailto:braidengolesoftwaredeveloper@gmail.com)  
+- 📱 Phone: 519-741-6963  
+- 🌐 [GitHub](https://github.com/Braiden-Gole)
+
+Let’s connect and create something amazing together!
