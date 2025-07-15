@@ -79,6 +79,6 @@ I’m currently open to **new opportunities** and enthusiastic about joining a t
 Feel free to reach out via:  
 - 📧 Email: [braidengolesoftwaredeveloper@gmail.com](mailto:braidengolesoftwaredeveloper@gmail.com)  
 - 📱 Phone: 519-741-6963  
-- 🌐 [GitHub](https://github.com/Braiden-Gole)
+- 🌐 [GitHub](https://github.com/bgolesoftwaredeveloper)
 
 Let’s connect and create something amazing together!
