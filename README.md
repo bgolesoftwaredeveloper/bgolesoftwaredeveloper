@@ -1,8 +1,8 @@
-# 👨‍💻 Braiden Gole – Computer Programmer
+# 👨‍💻 Braiden Gole – Software Developer
 
 ## 📌 About Me
 
-Hello! My name is **Braiden Gole**, and I am a dedicated and versatile **Computer Programmer** with strong experience in designing, developing, and maintaining software applications across various platforms. I specialize in delivering robust solutions in **Web Development**, **RESTful APIs**, **Desktop GUI**, and **Mobile Applications**.
+Hello! My name is **Braiden Gole**, and I am a dedicated and versatile **Software Developer** with strong experience in designing, developing, and maintaining software applications across various platforms. I specialize in delivering robust solutions in **Web Development**, **RESTful APIs**, **Desktop GUI**, and **Mobile Applications**.
 
 With a solid foundation in computer science concepts and real-world development experience, I bring a passion for clean, maintainable code and a commitment to continuous learning. Whether working independently or as part of a team, I strive to contribute high-quality, scalable, and efficient code that drives project success.
 
