@@ -61,7 +61,7 @@ These implementations serve as **educational explorations of cryptographic found
 
 ---
 
-## 🤖 Machine Learning Projects
+### 🤖 Machine Learning Projects
 
 Below is a collection of machine learning algorithms I have implemented, focusing primarily on **unsupervised learning**, **evolutionary strategies**, **reinforcement learning**, and **dimensionality reduction**:
 
@@ -83,6 +83,9 @@ Below is a collection of machine learning algorithms I have implemented, focusin
 - **Backpropagation Neural Network**
 - **Neuroevolution (Evolving Neural Networks)**
 - **Self-Organizing Maps (SOM)**
+
+### 🔺 Deep Learning & Graph-Based Learning
+- **Graph Neural Network (GNN)** – Neural architecture for learning from graph-structured data, capable of both node-level and graph-level predictions.
 
 ### 🎯 Reinforcement Learning
 - **Q-Learning Agent**
