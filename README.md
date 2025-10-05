@@ -31,7 +31,8 @@ Proficient in **GitHub** workflows, version control, and collaborative software 
 ---
 ### 🔐 Cryptography & Security Algorithms
 
-I am currently studying and implementing foundational and modern **cryptography algorithms** from scratch, focusing on both **asymmetric (public-key)** and **symmetric encryption** standards.  
+I am currently studying and implementing foundational and modern **cryptography algorithms** from scratch, focusing on both **asymmetric (public-key)** and **symmetric encryption** standards.
+
 These implementations emphasize **mathematical correctness**, **secure key generation**, and **algorithmic understanding** over library abstraction.
 
 ### 🧩 Implemented Algorithms
