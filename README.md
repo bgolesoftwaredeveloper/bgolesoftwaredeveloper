@@ -57,7 +57,7 @@ Modular arithmetic and prime number theory
 - Cryptographic padding and block cipher modes  
 - Secure password hashing and key derivation
 
-These implementations serve as **educational explorations of cryptographic foundations**, combining **theoretical rigor** with **practical coding precision** in languages such as **C**, **Go**, and **Python**.
+These implementations serve as **educational explorations of cryptographic foundations**, combining **theoretical rigor** with **practical coding precision** in languages such as **C**, **Go**, **Java**, and **Python**.
 
 ---
 
