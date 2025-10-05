@@ -44,7 +44,8 @@ These implementations emphasize **mathematical correctness**, **secure key gener
 - **Miller–Rabin Primality Test** – Probabilistic primality testing used for key generation.  
 - **PBKDF2-HMAC-SHA256** – Password-based key derivation using HMAC-SHA256 for secure key stretching.  
 - **RC4 (Rivest Cipher 4)** – Stream cipher implementation demonstrating key-scheduling and pseudo-random generation.  
-- **RSA (Rivest–Shamir–Adleman)** – Public-key cryptosystem for secure data transmission.  
+- **RSA (Rivest–Shamir–Adleman)** – Public-key cryptosystem for secure data transmission.
+- **Schnorr Signature** – Digital signature scheme providing efficiency, provable security, and support for multi-signatures.
 - **SHA-256 (Secure Hash Algorithm)** – Cryptographic hash function producing 256-bit digests.  
 - **Twofish** – Symmetric block cipher known for its flexibility, key-dependent S-boxes, and efficiency.
 
