@@ -29,6 +29,36 @@ Experienced in all phases: **Requirements gathering**, **Design**, **Development
 Proficient in **GitHub** workflows, version control, and collaborative software development.
 
 ---
+### 🔐 Cryptography & Security Algorithms
+
+I am currently studying and implementing foundational and modern **cryptography algorithms** from scratch, focusing on both **asymmetric (public-key)** and **symmetric encryption** standards.  
+These implementations emphasize **mathematical correctness**, **secure key generation**, and **algorithmic understanding** over library abstraction.
+
+### 🧩 Implemented Algorithms
+- **AES-GCM (Advanced Encryption Standard – Galois/Counter Mode)** – Authenticated encryption combining confidentiality and integrity.  
+- **AKS Primality Test** – Deterministic polynomial-time primality testing algorithm.  
+- **Blowfish** – Symmetric block cipher emphasizing speed and key-dependent substitution.  
+- **DES (Data Encryption Standard)** – Historical symmetric block cipher implemented for educational analysis.  
+- **ECDSA (Elliptic Curve Digital Signature Algorithm)** – Public-key signature algorithm based on elliptic curve cryptography.  
+- **Miller–Rabin Primality Test** – Probabilistic primality testing used for key generation.  
+- **PBKDF2-HMAC-SHA256** – Password-based key derivation using HMAC-SHA256 for secure key stretching.  
+- **RC4 (Rivest Cipher 4)** – Stream cipher implementation demonstrating key-scheduling and pseudo-random generation.  
+- **RSA (Rivest–Shamir–Adleman)** – Public-key cryptosystem for secure data transmission.  
+- **SHA-256 (Secure Hash Algorithm)** – Cryptographic hash function producing 256-bit digests.  
+- **Twofish** – Symmetric block cipher known for its flexibility, key-dependent S-boxes, and efficiency.
+
+### 🧮 Focus Areas
+Modular arithmetic and prime number theory  
+- Elliptic curve mathematics and key pair generation  
+- Randomized key generation and entropy analysis  
+- Message authentication codes (MACs)  
+- Hash-based integrity validation  
+- Cryptographic padding and block cipher modes  
+- Secure password hashing and key derivation
+
+These implementations serve as **educational explorations of cryptographic foundations**, combining **theoretical rigor** with **practical coding precision** in languages such as **C**, **Go**, and **Python**.
+
+---
 
 ## 🤖 Machine Learning Projects
 
