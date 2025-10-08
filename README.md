@@ -35,7 +35,7 @@ I am currently studying and implementing foundational and modern **cryptography 
 
 These implementations emphasize **mathematical correctness**, **secure key generation**, and **algorithmic understanding** over library abstraction.
 
-## Symmetric Ciphers
+### Symmetric Ciphers
 
 - **AES-GCM (Advanced Encryption Standard – Galois/Counter Mode)** – Authenticated encryption combining confidentiality and integrity.  
 - **Blowfish** – Symmetric block cipher emphasizing speed and key-dependent substitution.  
@@ -44,23 +44,23 @@ These implementations emphasize **mathematical correctness**, **secure key gener
 - **RC4 (Rivest Cipher 4)** – Stream cipher demonstrating key-scheduling and pseudo-random generation.  
 - **ChaCha20** – Modern symmetric stream cipher designed for high-speed encryption and strong security; often used in authenticated encryption schemes like ChaCha20-Poly1305.
 
-## Public-Key Cryptography
+### Public-Key Cryptography
 
 - **RSA (Rivest–Shamir–Adleman)** – Public-key cryptosystem for secure data transmission.  
 - **ECDSA (Elliptic Curve Digital Signature Algorithm)** – Public-key signature algorithm based on elliptic curve cryptography.  
 - **Schnorr Signature** – Digital signature scheme providing efficiency, provable security, and support for multi-signatures.
 
-## Hash Functions and Key Derivation
+### Hash Functions and Key Derivation
 
 - **SHA-256 (Secure Hash Algorithm)** – Cryptographic hash function producing 256-bit digests.  
 - **PBKDF2-HMAC-SHA256** – Password-based key derivation using HMAC-SHA256 for secure key stretching.
 
-## Primality Testing
+### Primality Testing
 
 - **AKS Primality Test** – Deterministic polynomial-time primality testing algorithm.  
 - **Miller–Rabin Primality Test** – Probabilistic primality testing used for key generation.
 
-## 🧮 Focus Areas
+### 🧮 Focus Areas
 Modular arithmetic and prime number theory  
 - Elliptic curve mathematics and key pair generation  
 - Randomized key generation and entropy analysis  
