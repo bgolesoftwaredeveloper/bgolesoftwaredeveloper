@@ -60,7 +60,7 @@ These implementations emphasize **mathematical correctness**, **secure key gener
 - **AKS Primality Test** – Deterministic polynomial-time primality testing algorithm.  
 - **Miller–Rabin Primality Test** – Probabilistic primality testing used for key generation.
 
-### 🧮 Focus Areas
+### 🎯 Focus Areas
 Modular arithmetic and prime number theory  
 - Elliptic curve mathematics and key pair generation  
 - Randomized key generation and entropy analysis  
