@@ -20,7 +20,7 @@ With a solid foundation in computer science concepts and real-world development 
 `SQLite`, `MySQL`, `PostgreSQL`, `Microsoft SQL Server`, `MongoDB`.
 
 ### 🧪 Testing Tools & Technologies
-`PyTest`, `NUnit`, `JUnit`, `Selenium`, `Postman`, `JMeter`, `Azure Test Plans`, and Go's built-in testing framework.
+`Unity`, `PyTest`, `NUnit`, `JUnit`, `Selenium`, `Postman`, `JMeter`, `Azure Test Plans`, and Go's built-in testing framework.
 
 ### 🔄 Software Development Lifecycle
 Experienced in all phases: **Requirements gathering**, **Design**, **Development**, **Testing**, and **Deployment**.
