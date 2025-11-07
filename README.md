@@ -109,6 +109,7 @@ Below is a collection of machine learning algorithms I have implemented, focusin
 ---
 
 💼 Projects & Experience
+
 🐞 Bug Management System & Authentication
 
 Developing a full-stack bug management system with a Node.js & Express User API and a C# ASP.NET Core Bug API, following a microservices-inspired architecture.
