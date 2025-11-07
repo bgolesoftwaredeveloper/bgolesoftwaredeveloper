@@ -108,6 +108,45 @@ Below is a collection of machine learning algorithms I have implemented, focusin
 
 ---
 
+💼 Projects & Experience
+🐞 Bug Management System & Authentication
+
+Developing a full-stack bug management system with a Node.js & Express User API and a C# ASP.NET Core Bug API, following a microservices-inspired architecture.
+Implementing JWT-based authentication for secure cross-service communication, with a secret key to validate requests between APIs.
+Planning and integrating additional authentication methods, including Google OAuth2, social login providers, and role-based access control, to support flexible and secure user identity management.
+The system is designed to be modular and scalable, enabling independent development and deployment of each service while maintaining a cohesive user experience.
+
+---
+
+🌐 C++ Real-Life Simulations
+
+- Developing real-life simulations across multiple domains using C++, including:
+- Natural Environmental Simulations
+- Societal & Urban Simulations
+- System & Process Simulations
+- Agent-Based & Behavioural Simulations
+- Physics Simulations
+
+Implementing grid-based and agent-based models, focusing on accuracy, performance, and emergent behavior in complex systems.
+Exporting simulation data to CSV files and performing visual analysis in Python, generating plots to uncover trends and system dynamics.
+Following modular, reusable code structures to allow extension to new simulation scenarios efficiently.
+Leveraging numerical methods, stochastic processes, and computational optimization to ensure realistic and reproducible results.
+
+---
+
+🔄 JavaScript Algorithm & Data Structure Animations
+
+Developed interactive visualizations of over 20+ algorithms and data structures including:
+Sorting: Bubble, Insertion, Merge, Quick, Heap, Counting, Radix, Exponential & Fibonacci
+Search: BFS, DFS, Binary & Jump Search
+Data Structures: AVL Trees, B-Trees, Treaps, Singly & Doubly Linked Lists, Circular Lists, LRU Cache, Huffman Coding
+Graphs & Mazes: Tarjan’s Algorithm, Bi-Directional Maze Traversal
+Machine Learning: K-Means Clustering
+Built a custom JavaScript animation framework demonstrating step-by-step operations for educational purposes.
+Emphasized performance, modular design, and user interactivity, producing reusable visualizations for learning and teaching.
+
+---
+
 ## 🌟 Personal Traits
 
 - Detail-oriented with a focus on clean, maintainable code  
