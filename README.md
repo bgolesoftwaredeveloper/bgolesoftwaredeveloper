@@ -1,4 +1,4 @@
-# 👨‍💻 Braiden Gole — Software Developer
+# 👨‍💻 Software Developer
 
 I am a highly motivated Software Developer with a strong foundation in computer science, software architecture, and algorithm design.  
 I specialize in building robust, scalable applications across **Web**, **API**, **Desktop**, **Mobile**, and **Systems-level** environments.
@@ -105,10 +105,5 @@ Node.js User API + ASP.NET Core Bug API
 - Self-motivated and structured work style  
 
 ---
-
-## 📬 Contact
-
-📧 **Email:** braidengolesoftwaredeveloper@gmail.com  
-📱 **Phone:** 519-741-6963
 
 I’m open to opportunities and would love to contribute to a team building meaningful, high-impact software.
