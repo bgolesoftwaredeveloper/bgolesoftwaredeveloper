@@ -1,6 +1,6 @@
 # 👨‍💻 Software Developer
 
-I also run a YouTube channel called 👻 Ghost Byte Protocol, where I implement algorithms from scratch, demonstrate real-world use of software frameworks, and discuss a wide range of technology topics—from cryptography and machine learning to systems programming and modern software engineering practices.
+I also run a YouTube channel called 👻 Ghost Byte Protocol, where I implement algorithms from scratch, demonstrate real-world use of software frameworks, and discuss a wide range of technology topics from cryptography and machine learning to systems programming and modern software engineering practices.
 
 I am a highly motivated Software Developer with a strong foundation in computer science, software architecture, and algorithm design.  
 I specialize in building robust, scalable applications across **Web**, **API**, **Desktop**, **Mobile**, and **Systems-level** environments.
