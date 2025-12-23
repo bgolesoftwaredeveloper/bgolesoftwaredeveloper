@@ -1,4 +1,4 @@
-# 👨‍💻 Software Developer
+# 👨‍💻 Software Engineer
 
 I am a highly motivated Software Developer with a strong foundation in computer science, software architecture, and algorithm design.  
 I specialize in building robust, scalable applications across **Web**, **API**, **Desktop**, **Mobile**, and **Systems-level** environments.
