@@ -1,6 +1,7 @@
 # 👨‍💻 Software Engineer
 
-I am a Software Engineer with a strong foundation in computer science, software architecture, and algorithm design.  
+I am a Software Engineer with a strong foundation in computer science, software architecture, and algorithm design.
+
 I build robust, scalable applications across **Web**, **API**, **Desktop**, **Mobile**, and **Systems-level** environments, with an emphasis on correctness, performance, and long-term maintainability.
 
 My development philosophy emphasizes:
