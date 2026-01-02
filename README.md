@@ -1,16 +1,10 @@
 # 👨‍💻 Software Engineer
 
-I am a Software Engineer with a strong foundation in computer science, software architecture, and algorithm design.
+I build correct, performant, and maintainable applications across web, API, desktop, mobile, and systems-level platforms, grounded in strong foundations in computer science, software architecture, and algorithm design.
 
-I build robust, scalable applications across **Web**, **API**, **Desktop**, **Mobile**, and **Systems-level** environments, with an emphasis on correctness, performance, and long-term maintainability.
+My work emphasizes clear reasoning, scalability, and long-term reliability, informed by hands-on experience with algorithms, data structures, operating systems concepts, networking fundamentals, and low-level systems development. I am comfortable working across macOS, Linux, and Windows, including scripting and automation in batch-oriented environments.
 
-My development philosophy emphasizes:
-- Clean, maintainable code  
-- Clear architectural reasoning  
-- Practical problem-solving  
-- Continuous learning and technical depth  
-
-I’m actively seeking opportunities where I can contribute to real projects, grow within a team, and continue building reliable, high-quality software.
+I am actively seeking opportunities to contribute to technically rigorous projects and grow within a strong engineering team.
 
 ---
 
@@ -22,6 +16,11 @@ C • C++ • Go • C# • Python • Java • Node.js • JavaScript • HTML/
 ### **Frameworks & Technologies**
 ASP.NET Core MVC • ASP.NET Core Web API • Django • Django REST Framework • Node.js Express  
 WPF • Android Studio • RESTful API Architecture
+
+### **Systems, OS & Networking**
+Operating systems fundamentals (processes, memory, concurrency)
+Networking fundamentals (TCP/IP, sockets, client–server architecture, HTTP)
+Cross-platform development on macOS • Linux • Windows
 
 ### **Databases**
 SQLite • MySQL • PostgreSQL • SQL Server • MongoDB
@@ -73,28 +72,6 @@ Graph Neural Networks (GNN)
 
 ### **Dimensionality Reduction**
 t-SNE • Isomap
-
----
-
-## 💼 Highlighted Projects
-
-### **🐞 Full-Stack Bug Management System**  
-Node.js User API + ASP.NET Core Bug API  
-- Microservices-inspired architecture  
-- JWT authentication between services  
-- Planned Google OAuth2 & role-based access control  
-- Modular, scalable, and independently deployable services  
-
-### **🌐 C++ Real-World Simulations**  
-- Environmental, societal, and urban simulations  
-- Physics-based and behavioural agent models  
-- CSV data exports and Python visualization  
-- Focus on performance, complexity, and emergent behaviour
-
-### **📊 JavaScript Algorithm Visualizations**  
-- 20+ visual animations (sorting, trees, graphs, ML algorithms)  
-- Custom animation framework  
-- Modular, interactive educational tools  
 
 ---
 
