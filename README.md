@@ -11,7 +11,7 @@ I am actively seeking opportunities to contribute to technically rigorous projec
 ## 🧠 Core Strengths
 
 ### **Programming Languages**
-C • C++ • Go • C# • Python • Java • Node.js • JavaScript • HTML/CSS • XAML
+C • C++ • C# • Go • Python • Java • Node.js • JavaScript • HTML/CSS • XAML
 
 ### **Frameworks & Technologies**
 ASP.NET Core MVC • ASP.NET Core Web API • Django • Django REST Framework • Node.js Express  
