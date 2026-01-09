@@ -35,7 +35,8 @@ Requirements • Design • Development • Testing • Deployment • Version C
 
 ## 🔐 Cryptography & Security Engineering
 
-I actively study and implement modern and classical cryptographic systems to better understand secure software design.  
+I actively study and implement modern and classical cryptographic systems to better understand secure software design.
+
 My implementations focus on mathematical correctness, key generation, secure padding, block cipher modes, and algorithm behaviour.
 
 ### **Symmetric Ciphers**
