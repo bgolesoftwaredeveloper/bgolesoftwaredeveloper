@@ -33,7 +33,6 @@ Requirements • Design • Development • Testing • Deployment • Version C
 
 ---
 
----
 ### **Systems, OS & Networking**  
 Strong foundations in operating systems, networking, and cross-platform development, with hands-on experience in both low-level and practical system tasks.
 
@@ -44,7 +43,8 @@ Strong foundations in operating systems, networking, and cross-platform developm
   - **macOS:** Terminal, shell scripting, automation, cross-platform deployment
 - **Networking Fundamentals:** TCP/IP, sockets, client–server architecture, HTTP
 
-### Skilled at OS-specific optimizations and cross-platform software design, ensuring robust, performant, and maintainable applications across diverse environments.
+Skilled at OS-specific optimizations and cross-platform software design, ensuring robust, performant, and maintainable applications across diverse environments.
+
 ---
 
 ## 🔐 Cryptography & Security Engineering
