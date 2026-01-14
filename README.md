@@ -33,6 +33,20 @@ Requirements • Design • Development • Testing • Deployment • Version C
 
 ---
 
+---
+### **Systems, OS & Networking**  
+Strong foundations in operating systems, networking, and cross-platform development, with hands-on experience in both low-level and practical system tasks.
+
+- **Operating Systems:** Processes, memory management, concurrency, system-level tooling, cross-platform development
+- **Platforms & Scripting:**  
+  - **Windows:** PowerShell, batch scripting, Windows API, process and memory management  
+  - **Linux (multiple distributions):** Bash, systemd, shell scripting, package management, kernel exploration, performance profiling  
+  - **macOS:** Terminal, shell scripting, automation, cross-platform deployment
+- **Networking Fundamentals:** TCP/IP, sockets, client–server architecture, HTTP
+
+Skilled at OS-specific optimizations and cross-platform software design, ensuring robust, performant, and maintainable applications across diverse environments.
+---
+
 ## 🔐 Cryptography & Security Engineering
 
 I actively study and implement modern and classical cryptographic systems to better understand secure software design.
