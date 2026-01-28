@@ -7,6 +7,15 @@ My work emphasizes clear reasoning, scalability, and long-term reliability, info
 I am actively seeking opportunities to contribute to technically rigorous projects and grow within a strong engineering team.
 
 ---
+## 🔄 Technical Evolution & Focus (2026)
+
+I am currently undergoing a strategic shift in my technical stack to prioritize modern safety, developer ergonomics, and rapid delivery without compromising on system performance.
+
+* **From C/C++ ➡️ Go:** Shifting my systems-level focus to **Go**. I am leveraging Go's efficient concurrency and the **Wails** framework to build lightweight, high-performance desktop applications.
+* **From Java ➡️ Kotlin:** Transitioning to **Kotlin** for backend and mobile development, prioritizing its null safety and modern functional paradigms.
+* **Desktop & Web:** Actively specializing in the **Wails** (Go + Frontend) ecosystem for cross-platform desktop tools and modern Go web frameworks for scalable APIs.
+
+---
 
 ## 🧠 Core Strengths
 
