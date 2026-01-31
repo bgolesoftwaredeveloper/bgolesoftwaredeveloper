@@ -9,11 +9,11 @@ I am actively seeking opportunities to contribute to technically rigorous projec
 ---
 ## 🔄 Technical Evolution & Focus (2026)
 
-I am currently undergoing a strategic shift in my technical stack to prioritize modern safety, developer ergonomics, and rapid delivery without compromising on system performance.
+Go (Primary Systems Focus): Transitioning from C/C++ to Go for high-performance systems development. I specialize in building concurrent, scalable APIs using Gin Gonic and architecting cross-platform desktop applications via Wails.
 
-* **From C/C++ ➡️ Go:** Shifting my systems-level focus to **Go**. I am leveraging Go's efficient concurrency and the **Gin Gonic** and **Wails** framework to build lightweight, high-performance websites and desktop applications.
-* **From Java ➡️ Kotlin:** Transitioning to **Kotlin** for backend and mobile development, prioritizing its null safety and modern functional paradigms.
-* **Desktop & Web:** Actively specializing in the **Wails** (Go + Frontend) ecosystem for cross-platform desktop tools and modern Go web frameworks for scalable APIs.
+Kotlin (Modern Backend): Shifting from Java to Kotlin for backend and mobile engineering. I prioritize its robust null safety, type-inference, and modern functional paradigms to deliver enterprise-grade, boilerplate-free solutions.
+
+Desktop & Web Ecosystem: Actively specializing in the Wails (Go + Frontend) ecosystem to bridge the gap between native system performance and modern web UI, alongside developing scalable Go-based architectures for the web.
 
 ---
 
