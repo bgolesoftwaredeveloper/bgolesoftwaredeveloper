@@ -82,19 +82,32 @@ My implementations span **C, Go, Python, and Java**, prioritizing clarity, preci
 I build machine learning algorithms from scratch to deepen my understanding of data structures, optimization, and mathematical modelling.
 
 ### **Unsupervised Learning**
-K-Means • DBSCAN • BIRCH • GMM • OPTICS • LOF • Affinity Propagation • Fuzzy C-Means  
+* **Centroid & Density:** K-Means • DBSCAN • BIRCH • OPTICS
+* **Probabilistic & Soft Clustering:** Gaussian Mixture Model (GMM) • Fuzzy C-Means
+* **Anomaly & Connectivity:** LOF (Local Outlier Factor) • Affinity Propagation
 
-### **Supervised**
-Naive Bayes • Random Forest Regression  
+### **Supervised Learning**
+* **Ensemble & Boosting:** Random Forest Regression • XGBoostRegressor • Gradient Boosting
+* **Linear & Kernel Models:** Support Vector Machine (SVM) • Ridge and Lasso Regression • Polynomial Regression
+* **Generative Models:** Naive Bayes
 
 ### **Evolutionary & Neural Methods**
-Backpropagation • Neural Network Evolution • Self-Organizing Maps  
+* **Optimization:** Gradient Descent • Backpropagation • GRASP (Greedy Randomized Adaptive Search Procedure)
+* **Neural Architectures:** Neural Network Evolution • Self-Organizing Maps
 
 ### **Deep & Graph Learning**
-Graph Neural Networks (GNN)
+* **Geometric Learning:** Graph Neural Networks (GNN) • Hypergraph
+* **Spatial Indexing:** KDTree
 
 ### **Dimensionality Reduction**
-t-SNE • Isomap
+* **Manifold Learning:** t-SNE • Isomap
+
+---
+
+## 🛠️ Implementation Details
+* **Vectorized Computation:** Algorithms are implemented using linear algebra principles to ensure efficiency without high-level wrappers.
+* **Mathematical Rigor:** Every model includes the manual derivation of its respective cost functions and gradients.
+* **Zero-Library Core:** Core logic relies strictly on primitive data structures and matrix operations.
 
 ---
 
