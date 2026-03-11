@@ -1,4 +1,4 @@
-# 👨‍💻 Systems-Oriented Software Engineer
+# Braiden Gole | Systems-Oriented Software Engineer
 
 I build correct, performant, and maintainable applications across web, API, desktop, mobile, and systems-level platforms, grounded in strong foundations in computer science, software architecture, and algorithm design.
 
