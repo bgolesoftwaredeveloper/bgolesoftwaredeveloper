@@ -7,15 +7,6 @@ My work emphasizes clear reasoning, scalability, and long-term reliability, info
 I am actively seeking opportunities to contribute to technically rigorous projects and grow within a strong engineering team.
 
 ---
-## 🔄 Technical Evolution & Focus (2026)
-
-Go (Primary Systems Focus): Transitioning from C/C++ to Go for high-performance systems development. I specialize in building concurrent, scalable APIs using Gin Gonic and architecting cross-platform desktop applications via Wails.
-
-Kotlin (Modern Backend): Shifting from Java to Kotlin for backend and mobile engineering. I prioritize its robust null safety, type-inference, and modern functional paradigms to deliver enterprise-grade, boilerplate-free solutions.
-
-Desktop & Web Ecosystem: Actively specializing in the Wails (Go + Frontend) ecosystem to bridge the gap between native system performance and modern web UI, alongside developing scalable Go-based architectures for the web.
-
----
 
 ## 🧠 Core Strengths
 
